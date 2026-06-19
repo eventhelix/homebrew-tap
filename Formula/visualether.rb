@@ -1,9 +1,9 @@
 class Visualether < Formula
   desc "Generate sequence diagrams from Wireshark PCAP files"
   homepage "https://www.eventhelix.com/visualether"
-  url "https://downloads.eventhelix.com/visualether/9.0.6/visualether-9.0.6-macos-arm64.tar.gz"
-  version "9.0.6"
-  sha256 "44ce5d0d23043ef988f654be37a31ec7523992ff5f2c691e3e61b2b5d084703e"
+  url "https://downloads.eventhelix.com/visualether/9.0.7/visualether-9.0.7-macos-arm64.tar.gz"
+  version "9.0.7"
+  sha256 "9448a07212b1c98122c72781bbb55363a4b39079bbbeba004bcb81cb280a6487"
   license :cannot_represent # proprietary — EventHelix.com Inc.
 
   # arm64-only: Intel Macs are not supported. Gives a clear message instead of
